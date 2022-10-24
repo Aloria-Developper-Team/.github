@@ -16,6 +16,6 @@ Vous souhaitez faire partie de notre équipe ? Vous êtes le bienvenue ! Il vous
 
 ## Informations
 
-Adresse de connection (in-game) : play.aloria.fr (actuel indisponible publiquement)                                                  
+Adresse de connection (in-game) : **play.aloria.fr** (actuel indisponible publiquement)                                                  
 Mail : [mail](weathox@gmail.fr)                                                                      
 Discord : [Aloria - Discord](https://discord.gg/pUkaFdWeP4)
