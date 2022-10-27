@@ -20,5 +20,5 @@ Adresse de connection (in-game) : **play.aloria.fr** (actuel indisponible publiq
 Mail : [mail](weathox@gmail.fr)                                                                      
 Discord : [Aloria - Discord](https://discord.gg/pUkaFdWeP4)
 
-### :warning:
-Aloria est un projet encore au développement et est donc actuellement indisponible au public.
+#### Disclaimer :warning:
+**Aloria est un projet encore au développement et est donc actuellement indisponible au public.**
